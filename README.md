@@ -1,3 +1,5 @@
 <p align="center">
-  <h3>Software Engineer</h3>
+  <h1>👋 Hi there! I'm JB</h1>
+  <p>🚀 Building impactful software</p>
+  <p>💻 Favorite stack: Deno, Astro, React, TypeScript</p>
 </p>
