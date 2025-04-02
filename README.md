@@ -1,5 +1,8 @@
-<p align="center">
-  <h1>👋 Hey, I'm JB</h1>
-  <p>🚀 Building impactful software</p>
-  <p>💻 Favorite stack: Deno, Astro, React, TypeScript</p>
-</p>
+# 👋 Hey, I'm JB
+
+### 💻 Favorite stack
+
+- [Deno](https://deno.com)
+- [Astro](https://astro.build)
+- [React](https://react.dev)
+- [TypeScript](https://www.typescriptlang.org)
